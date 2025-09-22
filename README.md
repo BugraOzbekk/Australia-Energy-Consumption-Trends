@@ -44,13 +44,13 @@ It combines the **Energy Account** and **Population** datasets to evaluate both 
 ##  Visualisations
 
 ### 1. Per Capita Energy Consumption (2015–2023)
-![Per Capita](images/EnergyConsumptionPerCapita.png)
+![Per Capita](Images/EnergyConsumptionPerCapita.png)
 
 ### 2. Per Capita Energy Consumption Forecast (2015–2026)
-![Per Capita Forecast](images/EnergyConsumptionPerCapitaForecast.png)
+![Per Capita Forecast](Images/EnergyConsumptionPerCapitaForecast.png)
 
 ### 3. Total Energy Consumption of Australia (2015–2023)
-![Total Energy Consumption](images/Australia’sEnergyConsumptionTrends(2015-2023).png)
+![Total Energy Consumption](Images/Australia’sEnergyConsumptionTrends(2015-2023).png)
 
 ---
 
